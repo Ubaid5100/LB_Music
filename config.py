@@ -38,7 +38,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+01Npc3a6nVYwYzU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AboutMe_012")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SENORITAMUSICBOT_SUPPORT")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
@@ -77,21 +77,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/6db32c63c677905cc5cc3.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/bc7f8903e60fbfafa2eb4.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = "https://graph.org/file/2fd73ef39c62047594009.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/6db32c63c677905cc5cc3.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/6db32c63c677905cc5cc3.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/45ebd0d0f63a25060f197.jpg"
 
 
 def time_to_seconds(time):
